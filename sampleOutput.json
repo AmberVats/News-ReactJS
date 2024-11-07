@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 125,
+  "articles": [
+  {
+  "source": {
+  "id": null,
+  "name": "Android Central"
+  },
+  "author": "techkritiko@gmail.com (Jay Bonggolto)",
+  "title": "One UI 7 beta could be just around the corner with an Apple Intelligence-like twist",
+  "description": "Get ready for smarter notifications with One UI 7, inspired by Apple's notification summary.",
+  "url": "https://www.androidcentral.com/apps-software/one-ui-7-beta-could-be-just-around-the-corner-with-an-apple-intelligence-like-twist",
+  "urlToImage": "https://cdn.mos.cms.futurecdn.net/H9uJ5yTZcUC5qbV6eB2BDK-1200-80.jpg",
+  "publishedAt": "2024-11-05T00:29:06Z",
+  "content": "What you need to know\r\n<ul><li>Samsung’s One UI 7 might introduce an AI-driven notification summary feature, similar to Apple’s, starting with Korean language support.</li><li>Notification summaries … [+2451 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MacRumors"
+  },
+  "author": "Juli Clover",
+  "title": "Apple Preparing for Upcoming Siri Onscreen Awareness Feature With New iOS 18.2 API for Developers",
+  "description": "Apple is working on more advanced Siri functionality as part of its Apple Intelligence feature set, and to prepare, it has been providing developers with App Intent APIs so apps will be ready for the new capabilities.\n\n\n\n\n\nWith the latest wave of betas, Apple…",
+  "url": "https://www.macrumors.com/2024/11/04/apple-onscreen-awareness-ios-18-2-api-developers/",
+  "urlToImage": "https://images.macrumors.com/t/9QYrKGN7DCjAIIQvkbgkjuswS_0=/2500x/article-new/2024/09/Apple-Intelligence-General-Feature-2.jpg",
+  "publishedAt": "2024-11-05T00:32:00Z",
+  "content": "Apple is working on more advanced Siri functionality as part of its Apple Intelligence feature set, and to prepare, it has been providing developers with App Intent APIs so apps will be ready for the… [+2220 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "MacRumors"
+  },
+  "author": "Juli Clover",
+  "title": "tvOS 18.2 Beta Adds Support for 21:9 Projector Aspect Ratio",
+  "description": "Apple today provided developers with the first beta of tvOS 18.2, and the update adds support for the 21:9 aspect ratio that projectors use. \n\n\n\n\n\nAs noted by Sigmund Judge, the update includes a new option that lets the Apple TV automatically detect the best…",
+  "url": "https://www.macrumors.com/2024/11/04/tvos-18-2-projector-aspect-ratio/",
+  "urlToImage": "https://images.macrumors.com/t/bIZQJleYYvo5spGq46d-L8hdt4c=/2500x/article-new/2024/08/tvOS-18-Thumb-3.jpg",
+  "publishedAt": "2024-11-05T00:14:00Z",
+  "content": "Apple today provided developers with the first beta of tvOS 18.2, and the update adds support for the 21:9 aspect ratio that projectors use. \r\nAs noted by Sigmund Judge, the update includes a new opt… [+882 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "The Atlantic"
+  },
+  "author": "Hanna Rosin",
+  "title": "Does America Want Chaos?",
+  "description": "Donald Trump has lost all discipline. Will that affect the outcome of the election?",
+  "url": "https://www.theatlantic.com/podcasts/archive/2024/11/does-america-want-chaos/680533/",
+  "urlToImage": "https://cdn.theatlantic.com/thumbor/oqr07h9icKHyPvsRs9WTGu_7j8s=/0x50:2500x1352/1200x625/media/img/mt/2024/11/Radio_Atlantic_TRUMP_01/original.jpg",
+  "publishedAt": "2024-11-05T01:48:46Z",
+  "content": "<!-----\n\n\n\nConversion time: 0.685 seconds.\n\n\nUsing this HTML file:\n\n1. Paste this output into your source file.\n2. See the notes and action items below regarding this conversion run.\n3. Check the ren… [+28977 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Clagnut.com"
+  },
+  "author": "Richard Rutter",
+  "title": "Pagination widows, or, Why I'm embarrassed about my eBook",
+  "description": "The handling of widowed headings across pages in Apple Books is of particular concern. Since 1997, CSS has had properties to handle this, and yet browsers including Safari and Firefox still don’t support them – why not?",
+  "url": "https://clagnut.com/blog/2426",
+  "urlToImage": "https://clagnut.com/images/2426/ebook-widows-social.png",
+  "publishedAt": "2024-11-05T00:58:11Z",
+  "content": "The physical copies of my book on Web Typography sold out quickly. I self-published, and print runs are expensive when youre funding them yourself, so numbers were limited. However it was always my p… [+3590 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Marko Zivkovic)",
+  "title": "New in iOS 18.2 developer beta 2: Additional settings for ChatGPT, Camera Control, and more",
+  "description": "iOS 18.2 has received its second developer beta, as Apple Intelligence testing continues. Here's everything you need to know about the software update and the changes it includes.iOS 18.2 developer beta 2 is now available for download.On Monday, Apple release…",
+  "url": "https://appleinsider.com/articles/24/11/05/new-in-ios-182-developer-beta-2-additional-settings-for-chatgpt-camera-control-and-more",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/61641-127410-Everythign-NEW-in-iOS-182-Beta-2!-2-xl.jpg",
+  "publishedAt": "2024-11-05T00:07:42Z",
+  "content": "iOS 18.2 has received its second developer beta, as Apple Intelligence testing continues. Here's everything you need to know about the software update and the changes it includes.\r\nOn Monday, Apple r… [+6912 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Marko Zivkovic)",
+  "title": "Apple is researching smart glasses with an internal study, report claims",
+  "description": "Apple is reportedly using an internal study to gauge interest in smart glasses as the company continues to develop its own Apple Glass, an eventual successor to Apple Vision Pro.Apple is reportedly exploring Smart Glasses with an internal study.The aforementi…",
+  "url": "https://appleinsider.com/articles/24/11/05/apple-is-researching-smart-glasses-with-an-internal-study-report-claims",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/61644-127416-61378-126796-53946-108526-Apple-Glass-pairing-xl-xl-xl.jpg",
+  "publishedAt": "2024-11-05T00:52:39Z",
+  "content": "Apple is reportedly using an internal study to gauge interest in smart glasses as the company continues to develop its own Apple Glass, an eventual successor to Apple Vision Pro.\r\nThe aforementioned … [+2002 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Christine McKee)",
+  "title": "B&H launches holiday deals on Apple with discounts up to $600 off",
+  "description": "The official holiday 2024 sale at B&H provides bargain hunters with steep savings on MacBooks, desktop Macs, podcasting gear and more.Save hundreds on Apple & more - Image credit: AppleYou can view the full selection of over 100 Apple deals at B&H on the stor…",
+  "url": "https://appleinsider.com/articles/24/11/05/bh-launches-holiday-deals-on-apple-with-discounts-up-to-600-off",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/61645-127477-bh-photo-holiday-sale-2024-2-xl.jpg",
+  "publishedAt": "2024-11-05T05:24:39Z",
+  "content": "The official holiday 2024 sale at B&amp;H provides bargain hunters with steep savings on MacBooks, desktop Macs, podcasting gear and more.\r\nYou can view the full selection of over 100 Apple deals at … [+553 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "AppleInsider"
+  },
+  "author": "news@appleinsider.com (Charles Martin)",
+  "title": "Review: Hohem iSteady MT2 Camera/Smartphone Gimbal Kit",
+  "description": "If you've ever used a smartphone gimbal before, the Hohem iSteady MT2 is a more solid — and professional-grade — handheld gimbal camera mount that enables smooth motion, AI tracking, and digital control for your iPhone, DSLR, or other cameras.The Hohem iStead…",
+  "url": "https://appleinsider.com/articles/24/11/05/review-hohem-isteady-mt2-camerasmartphone-gimbal-kit",
+  "urlToImage": "https://photos5.appleinsider.com/gallery/61548-127145-HoHem-iSteady-MT2-compatibility-xl.jpg",
+  "publishedAt": "2024-11-05T02:20:21Z",
+  "content": "If you've ever used a smartphone gimbal before, the Hohem iSteady MT2 is a more solid — and professional-grade — handheld gimbal camera mount that enables smooth motion, AI tracking, and digital cont… [+9057 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNET"
+  },
+  "author": "Samantha Kelly （CNET News） 翻訳校正： 編集部",
+  "title": "M5搭載「MacBook Pro」は2025年、大幅刷新は2026年か",
+  "description": "アップルは「MacBook Pro」の大幅刷新に取り組んでいるが、発売は2026年になる可能性が高いと、Bloombergのマーク・ガーマン氏がニュースレター「Power On」で伝えた。",
+  "url": "https://japan.cnet.com/article/35225695/",
+  "urlToImage": "https://japan.cnet.com/storage/2024/11/05/9806929dc264295baac21829b27292f2/macbook-pro-2024-control_1280x960.jpg",
+  "publishedAt": "2024-11-05T02:09:00Z",
+  "content": "AppleMacBook Pro2026BloombergMark Gurman113Power OnAppleM5M5 ProM5 MaxMacBook Pro20252026\r\nGurmanApple20252025LED\r\nApple\r\nMacBook ProM4iPad ProOLED\r\n8M4MacBook ProM4MacBook Pro\r\nAppleVision ProAppleM… [+34 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Les Numériques"
+  },
+  "author": "Rick",
+  "title": "Actualité : Black Friday 2024 – Le vidéoprojecteur Hisense PX1-PRO \"5 étoiles\" à 1 457,53 €",
+  "description": "Le vidéoprojecteur Hisense PX1-PRO passe sous les 1500 € chez Amazon. C'est actuellement l'un des meilleurs produit de notre comparatif.",
+  "url": "https://www.lesnumeriques.com/videoprojecteur/black-friday-2024-le-videoprojecteur-hisense-px1-pro-5-etoiles-a-1-457-53-n228398.html",
+  "urlToImage": "https://cdn.lesnumeriques.com/optim/test/20/209993/43c6ff6a-hisense-px1-pro-le-videoprojecteur-tri-laser-ultra-courte-focale-4k-sous-android-tv-a-moins-de-2000__1200_678__735-228-1919-850_wtmk.jpg",
+  "publishedAt": "2024-11-05T00:01:02Z",
+  "content": "Le Hisense P1X-PRO est le premier vidéoprojecteur ultra courte focale tri-laser 4K vendu sous le seuil des 2000 . À ce prix, il fait peu de concessions et arbore une connectique complète, l'intégrati… [+1773 chars]"
+  },
+  {
+  "source": {
+  "id": "lenta",
+  "name": "Lenta"
+  },
+  "author": "Марина Совина",
+  "title": "Эрнст сравнил Стива Джобса с Гитлером из-за iPhone",
+  "description": "Генеральный директор Первого канала Константин Эрнст на симпозиуме «Создавая будущее» сравнил основателя компании Apple Стива Джобса с Адольфом Гитлером. Об этом пишет 360.ru",
+  "url": "https://lenta.ru/news/2024/11/05/ernst-sravnil-stiva-dzhobsa-s-gitlerom-iz-za-iphone/",
+  "urlToImage": "https://icdn.lenta.ru/images/2024/11/05/03/20241105032857499/share_168b7f6e3b4ba2a1fec6c888f5de44b0.jpg",
+  "publishedAt": "2024-11-05T00:20:00Z",
+  "content": "« » Apple . 360.ru.\r\n iPhone . , Apple « ». , .\r\n« , , », . , « », .\r\n 1972 . « , . , 15 , , , 1972 », ."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Faris Mokhtar",
+  "title": "Apple to Offer Extra Indonesia Investment to Remove iPhone Ban",
+  "description": "(Bloomberg) -- Apple Inc. has proposed investing almost $10 million to make additional goods in Indonesia, according to people familiar with the matter, as...",
+  "url": "https://finance.yahoo.com/news/apple-offer-extra-indonesia-investment-005759988.html",
+  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZEz8iRXwYWkST35WBkORIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/298e44beb0f855ce8d45e215da6d0c68",
+  "publishedAt": "2024-11-05T00:57:59Z",
+  "content": "(Bloomberg) -- Apple Inc. has proposed investing almost $10 million to make additional goods in Indonesia, according to people familiar with the matter, as it seeks to have the countrys ban on sales … [+3565 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "La Vanguardia"
+  },
+  "author": "Roberto Méndez",
+  "title": "Por menos de 35 euros, estos auriculares con cancelación de ruido son un chollo y están arrasando en ventas",
+  "description": "¿Buscas unos auriculares inalámbricos para usar a diario? En el mercado actual existen una gran variedad de modelos que combinan un rendimiento excelente y características avanzadas a precios mucho más accesibles que algunos modelos de marcas como Apple, Sony…",
+  "url": "https://www.lavanguardia.com/andro4all/ofertas/por-menos-de-35-euros-estos-auriculares-bluetooth-con-cancelacion-de-ruido-y-gran-autonomia-estan-arrasando-en-ventas",
+  "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/11/auriculares-soundcore-p30i-de-anker.jpg?width=1200",
+  "publishedAt": "2024-11-05T00:30:52Z",
+  "content": "Estos auriculares se emparejan con nuestros dispositivos mediante Bluetooth 5.4 para disfrutar de una conexión estable y de largo alcance\r\n¿Buscas unos auriculares inalámbricos para usar a diario? En… [+3800 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Techbang.com"
+  },
+  "author": "IFENG",
+  "title": "蘋果對Apple Vision Pro平價版沒信心，傳生產時間已延後到2027年之後",
+  "description": "目前 Apple Vision Pro 缺乏成功的案例來證明消費者有購買的關鍵原因，僅單靠降價無法吸引更多的人來購買。\n蘋果第一代 Apple Vision Pro 的生產將於今年年底結束，先前有傳出蘋果將把資源集中用於平價版本的VR眼鏡，預計將在 2025 年推出。不過，現在或許要等待更長的時間，因為有分析師預測，其生產已被延遲到 2027 年以後。\r\n\n之所以要延後的原因，是目前 Apple Vision Pro 缺乏成功的案例來證明消費者有購買的關鍵原因，僅單靠降價無法吸引更多的人來購買。\r\n\n\n平價版本的…",
+  "url": "https://www.techbang.com/posts/119368-analysts-say-the-production-of-affordable-apple-glasses-has",
+  "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/119368/original/20474ce56282f3568d5d548c186f6cb2.jpg?1730707552",
+  "publishedAt": "2024-11-05T00:30:00Z",
+  "content": "Apple Vision Pro VR 2025 2027 \r\n Apple Vision Pro \r\nApple Vision Pro2000 A M X 2027 \r\nApple Vision Pro 2 2025M5 SoC   Apple Intelligence 2025 \r\nApple Vision ProApple Vision Pro 2\r\nApple Vision ProHom… [+60 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Techbang.com"
+  },
+  "author": "汽車線上",
+  "title": "Kia Sorento 小改款，雙動力、四車型齊發",
+  "description": "小改款 Kia Sorento 正式在台上市，全車系標配 12.3 吋全景曲面顯示幕，新增導入 1.6L 渦輪油電動力搭配 AWD 傳動系統，售價 165.9萬～194.9 萬。小改款 Kia Sorento 正式在台上市，內外設計全面換裝比照 EV9 最新家族設計，全車系標配 12.3 吋全景曲面顯示幕，除原有 2.2L 柴油引擎，並新增導入 1.6L 渦輪油電動力搭配 AWD 傳動系統、同時提供六或七人座配置選擇，售價 165.9 萬～194.9 萬。\n<table>\n\n<tr>\n<td>\n動力\r\n\n</td…",
+  "url": "https://www.techbang.com/posts/118758-kia-sorento",
+  "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/118758/original/6569ea8a24b707577f78141d5888bdea.jpg?1728295094",
+  "publishedAt": "2024-11-05T03:00:00Z",
+  "content": "Kia Sorento EV9 12.3 2.2L 1.6L AWD 165.9 194.9 \r\n<table><tr><td></td><td>2.2L\r\n</td><td>1.6L\r\n</td></tr><tr><td></td><td>Trendy\r\n</td><td>Apex AWD\r\n</td><td>Apex\r\n</td><td>Signature AWD\r\n</td></tr><t… [+591 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Forbes"
+  },
+  "author": "Ewan Spence, Senior Contributor, \n Ewan Spence, Senior Contributor\n https://www.forbes.com/sites/ewanspence/",
+  "title": "New Galaxy S25 Exclusive Highlights Samsung’s Inspired Plan",
+  "description": "Could Samsung release a new design of the Galaxy S25 in 2025?",
+  "url": "https://www.forbes.com/sites/ewanspence/2024/11/04/samsung-galaxy-s25-ultra-s25-slim-design-leak-release-date/",
+  "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65a9b89b23b1dcd269a93c1f/0x0.jpg?format=jpg&crop=958,539,x0,y0,safe&height=900&width=1600&fit=bounds",
+  "publishedAt": "2024-11-05T01:06:39Z",
+  "content": "Samsung Galaxy S24 Ultra, Galaxy Unpacked 2024, London, United Kingdom \r\nEWAN SPENCE\r\nFollowing the launch of the Galaxy Z Fold 6 Special editiona foldable smartphone that puts a premium on thin desi… [+1849 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Olhardigital.com.br"
+  },
+  "author": "Camila Oliveira",
+  "title": "5 notebooks para programar com melhor custo-benefício de 2024",
+  "description": "Conheça nossa lista com 5 opções de notebooks com um bom custo benefício para quem quer programar ainda em 2024\nO post 5 notebooks para programar com melhor custo-benefício de 2024 apareceu primeiro em Olhar Digital.",
+  "url": "https://olhardigital.com.br/2024/11/05/reviews/5-notebooks-para-programar-com-melhor-custo-beneficio-de-2024/",
+  "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/07/imagem_2024-07-22_093156325-1024x576.png",
+  "publishedAt": "2024-11-05T03:05:00Z",
+  "content": "Quem é desenvolvedor, seja profissional ou estudante, sabe que a escolha de um bom notebook é fundamental para a profissão, já que atuar com programação exige um equipamento com certas configurações … [+3611 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "scmp.com",
+  "title": "Apple explores smart glasses, following Meta’s lead",
+  "description": "Apple explores smart glasses, following Meta’s lead\nAn internal study is under way to gather feedback from Apple employees on smart glasses, sources say\nThe initiative, code-named Atlas, got under way last week and involves gathering feedback from Apple emplo…",
+  "url": "https://biztoc.com/x/f3920dcdfa3487e3",
+  "urlToImage": "https://biztoc.com/cdn/f3920dcdfa3487e3_s.webp",
+  "publishedAt": "2024-11-05T03:13:09Z",
+  "content": "Apple explores smart glasses, following Metas leadAn internal study is under way to gather feedback from Apple employees on smart glasses, sources sayThe initiative, code-named Atlas, got under way l… [+133 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "go.theregister.com",
+  "title": "Apple 'broke law' by pushing out labor-organizing dev",
+  "description": "Apple 'broke law' by pushing out labor-organizing dev\nViolation of labor rights? By the iTitan? Surely not!\nThe hot water in which the National Labor Relations Board has been boiling Apple is getting deeper, as the US workers' rights body has issued yet anoth…",
+  "url": "https://biztoc.com/x/c54fbacd9aa74a94",
+  "urlToImage": "https://biztoc.com/cdn/807/og.png",
+  "publishedAt": "2024-11-05T03:35:23Z",
+  "content": "Apple 'broke law' by pushing out labor-organizing devViolation of labor rights? By the iTitan? Surely not!The hot water in which the National Labor Relations Board has been boiling Apple is getting d… [+146 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Tinhte.vn"
+  },
+  "author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+  "title": "Apple phát hành iOS 18.2 dev beta 2: Dưới đây là những thay đổi",
+  "description": "Sau khi ra mắt iOS 18.2 beta đầu tiên được khoảng 1-2 tuần thì Apple cũng cho ra bản dev beta 2, mục đích để khắc phục những lỗi mà beta 1 gặp phải và thêm vào đó một số thay đổi nhất định. Bản cập nhật này không chỉ mang đến những tinh chỉnh nhỏ…",
+  "url": "https://tinhte.vn/thread/apple-phat-hanh-ios-18-2-dev-beta-2-duoi-day-la-nhung-thay-doi.3857516/",
+  "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/11/8515102_Cover-ios18.2-beta_2-tinhte-antu.png",
+  "publishedAt": "2024-11-05T00:47:02Z",
+  "content": "iOS 18.2 beta 2 là mt bn cp nht theo mình là áng chú ý, mang n nhiu thay i v tính nng và tri nghim ngi dùng. Mc dù hin ti bn cp nht này ch dành cho các nhà phát trin, nhng anh em nào máu thì có th ng… [+117 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Tinhte.vn"
+  },
+  "author": "no-reply@tinhte.vn (Pnghuy), Pnghuy",
+  "title": "macOS 15.2 beta 2: Tính năng hiển thị thời tiết trên menu bar",
+  "description": "Đêm qua, Apple đã cập nhật macOS 15.2 beta 2, iOS 18.2 beta 2 và một số phiên bản hệ điều hành khác cho các thiết bị Apple. Trong bản cập nhật macOS 15.2 beta 2 mới này, Apple đã âm thầm bổ sung tính năng hiển thị thời tiết trên menu bar — một tính…",
+  "url": "https://tinhte.vn/thread/macos-15-2-beta-2-tinh-nang-hien-thi-thoi-tiet-tren-menu-bar.3857594/",
+  "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/11/8515302_cover-weather-menu-bar-macos-15.2.webp",
+  "publishedAt": "2024-11-05T05:28:52Z",
+  "content": "êm qua, Apple ã cp nht macOS 15.2 beta 2, iOS 18.2 beta 2 và mt s phiên bn h iu hành khác cho các thit b Apple. Trong bn cp nhtmacOS 15.2 beta 2 mi này, Apple ã âm thm b sung tính nng hin th thi tit … [+714 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Tinhte.vn"
+  },
+  "author": "no-reply@tinhte.vn (nclamvn), nclamvn",
+  "title": "Năm 2016, Apple từ chối yêu cầu của FBI về việc mở khóa iPhone của một nghi phạm trong vụ xả...",
+  "description": "Năm 2016, Apple từ chối yêu cầu của FBI về việc mở khóa iPhone của một nghi phạm trong vụ xả s.úng tại San Bernardino, California. FBI muốn Apple tạo ra một \"backdoor\" (cửa hậu) để truy cập dữ liệu trên iPhone…",
+  "url": "https://tinhte.vn/thread/nam-2016-apple-tu-choi-yeu-cau-cua-fbi-ve-viec-mo-khoa-iphone-cua-mot-nghi-pham-trong-vu-xa.3855345/",
+  "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/11/8512377_ab-Lyfy7j9fy0U_1.jpg",
+  "publishedAt": "2024-11-05T05:25:50Z",
+  "content": "\"Bn phi hi khách hàng xem h có ng ý chia s d liu ca mình không. Và nu h nói không, bn phi tôn trng iu ó\".\r\n\"Chúng tôi tin rng quyn riêng t là mt quyn c bn ca con ngi\".\r\n\"Tôi ngh rng mi ngi u thông mi… [+1639 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Sspai.com"
+  },
+  "author": "少数派编辑部",
+  "title": "派早报：Osmo 宣布通过 AI 实现气味传送，X 更新屏蔽策略等",
+  "description": "亚马逊 Kindle Colorsoft 发货取消，Meta 公布机器人触觉感知研究进展等查看全文",
+  "url": "https://sspai.com/post/93574",
+  "urlToImage": "https://cdnfile.sspai.com/2024/11/4/article/6b56ef03-475c-1347-85c3-4e95e448fc2f.png",
+  "publishedAt": "2024-11-05T00:00:00Z",
+  "content": "Osmo AI \r\nOsmo CEO Alex Wiltschko X Osmo AI AI POM AI \r\nX \r\nX block\r\n Kindle Colorsoft \r\n Kindle Colorsoft Kindle Colorsoft 10 30 11 9 18 11 26 2.6 \r\nMeta \r\nMeta Meta FAIR AI Meta Meta SparshDigit 36… [+654 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Smhn.info"
+  },
+  "author": "會原",
+  "title": "神機能「Macから即iPhoneテザリング」が壊れて起動困難・不安定に。解消方法を解説",
+  "description": "魔法のような体験のApple製品。穴に落ちると最悪の体験。MacBookから使えるiPhoneのテザリングがおかしくなり、使い物にならなくなったので、奮闘し、解決方法を発見しました。これぞ求めていた理想。MacとiPhoneの互恵関係MacBookを使っていて最高だなと思うのが、...smhn.infoにアクセスすると、全文を読むことができます。",
+  "url": "https://smhn.info/202411-iphone-tethering-hidoi",
+  "urlToImage": "https://smhn.info/wp-content/uploads/2024/11/apple-internet-share.jpg",
+  "publishedAt": "2024-11-05T00:30:18Z",
+  "content": "Apple\r\nMacBookiPhone\r\nSponsored Link\r\nMaciPhone\r\nMacBookiPhone\r\niPhoneMacBookiPhoneMacBook\r\nMacBookiPhone\r\niPhoneMac5\r\nSIMWindowsiPhoneUSB Type-CSIMiPhoneMacBook Pro1\r\nMaciPhone\r\n7\r\nMNPMNP\r\nApple/iPh… [+342 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Macotakara.jp"
+  },
+  "author": "danbo",
+  "title": "Apple、iOS 18.2、iPadOS 18.2、macOS Sequoia 15.2で画面上のコンテンツを理解する視覚言語モデル (VLM)を実装",
+  "description": "Making onscreen content available to Siri and Apple Intelligence\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nAppleが、デベロッパー向けドキュメント「Making onscreen content available to Siri and Apple Intelligence」を公開し、iOS 18.2以降、iPadOS 18.2以降、macOS Sequoi…",
+  "url": "https://www.macotakara.jp/news/entry-47896.html",
+  "urlToImage": "https://www.macotakara.jp/archives/001/202411/00a91da39ee17e29.jpg",
+  "publishedAt": "2024-11-05T00:46:13Z",
+  "content": "AppleMaking onscreen content available to Siri and Apple IntelligenceiOS 18.2iPadOS 18.2macOS Sequoia 15.2Siri Apple Intelligence \r\nSiri Apple Intelligence App Intents \r\n(VLM)AppleReALMGoogleAIScreen… [+1 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Macotakara.jp"
+  },
+  "author": "danbo",
+  "title": "キヤノン、Apple Vision Proの空間ビデオに対応したEOS R7用3D撮影レンズ「RF-S7.8mm F4 STM DUAL」の予約受付を開始",
+  "description": "RF-S7.8mm F4 STM DUAL\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nキヤノンが、EOS VR SYSTEMとして、3D映像撮影用のRFレンズ「[RF-S7.8mm F4 STM DUAL](https://personal.canon.jp/product/camera/rf/rf-s78-f4d)」を、77,000円で予約受付を開始しています。\n\nEOS RシリーズのカメラとRFレンズの組み合わせと同じ感覚…",
+  "url": "https://www.macotakara.jp/etc/digital_camera/entry-47888.html",
+  "urlToImage": "https://www.macotakara.jp/archives/001/202406/f767a68118721fe1a678d12354926bf327f99040ad2c84ab3e858c4984e88e85.jpg",
+  "publishedAt": "2024-11-05T01:01:14Z",
+  "content": "EOS VR SYSTEM3DRFRF-S7.8mm F4 STM DUAL77,000\r\nEOS RRF3D\r\nAppleApple Vision Pro\r\nAppleApple\r\n0.15m"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Unwire.hk"
+  },
+  "author": "唐美鳳",
+  "title": "Apple 再向歐盟讓步 未來 iPhone 用戶可自訂預設翻譯、地圖軟件",
+  "description": "最近 Apple 在官網上載一份合規文件，披露他們已採取措施以符合歐盟《數位市場法》的要求，又透露將會在 2025 年春季，容許歐盟地區的 iPhone 和 iPad 用戶設定預設的導航和翻譯程式。有外國傳媒以此推論，相關選項預計會在明年 4 月，隨 iOS 18.4 和 iPadOS 18.4 推出。\nThe post Apple 再向歐盟讓步 未來 iPhone 用戶可自訂預設翻譯、地圖軟件 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+  "url": "https://unwire.hk/2024/11/05/ios-18-4-default-maps-translate-apps-in-eu/software/ios-app/",
+  "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/11/04-4-694x390.jpg",
+  "publishedAt": "2024-11-05T02:00:54Z",
+  "content": "Apple 2025 iPhone iPad 4 iOS 18.4 iPadOS 18.4 \r\n Apple iPhone iPad Google Maps Waze Apple Maps Google Translate Microsoft Translator Apple \r\n iOS 18.2 iPhone Apple iPadOS \r\nmacrumors\r\n:<li> Apple iPa… [+53 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Unwire.hk"
+  },
+  "author": "唐美鳳",
+  "title": "歐盟委員會再向 Apple 出手 調查 iPadOS 對第三方配件有否足夠兼容",
+  "description": "歐盟委員會昨日宣佈，正式對 iPad 的系統 iPadOS 是否符合《數碼市場法》的規範要求進行評估。《數碼市場法》規定 iPadOS 必須在歐盟地區，容許用戶自行選擇預設網絡瀏覽器，選擇第三方的應用程式商店，同時支援配件生態系統，當中包括耳機和智能手寫筆等配件。\nThe post 歐盟委員會再向 Apple 出手 調查 iPadOS 對第三方配件有否足夠兼容 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+  "url": "https://unwire.hk/2024/11/05/eu-ipad-third-party-accessories-compatibility-dma/notebook/tablet-notebook/",
+  "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/11/03-4-694x390.jpg",
+  "publishedAt": "2024-11-05T03:00:20Z",
+  "content": "iPad iPadOS iPadOS \r\n 4 iPad Apple 6 iPad iPadOS iPadOS 18 iPadOS \r\n iPadOS Apple iPad AirPods Apple Pencil Apple \r\n9to5mac\r\n:<li>iPad / iPhone Windows XP PC 2</li> <li>Apple iPhone </li> <li></li> \r… [+2 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Lupa.cz"
+  },
+  "author": "redakce@lupa.cz (Lupa.cz: Jan Sedlák)",
+  "title": "Mobilní data v budoucnu výrazně zrychlí, nová technologie už teď nabízí 10 gigabitů vzduchem",
+  "description": "Ještě než někdy kolem roku 2030 dorazí sítě 6G, začne se objevovat mezigenerace 5G-Advanced. První testy ukazují vysoké rychlosti. Uvnitř: GALERIE.",
+  "url": "https://www.lupa.cz/clanky/mobilni-data-v-budoucnu-vyrazne-zrychli-nova-technologie-uz-ted-nabizi-10-gigabitu-vzduchem/",
+  "urlToImage": "https://i.iinfo.cz/images/85/vodafone-a-5g-advanced-5-5g_watermark-lupa-cz.webp",
+  "publishedAt": "2024-11-05T05:30:01Z",
+  "content": "Mezinárodní organizace 3GPP v ervnu vydala finální specifikace nového standardu Release 18, díky nmu mohou výrobci vybavení pro mobilní sít zaít dodávat technologie zapadající mezi souasné 5G a budou… [+7780 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Paul Tan's Automotive News"
+  },
+  "author": "Jonathan James Tan",
+  "title": "2024 Mercedes-AMG GLE63S and GLE63S Coupe in Malaysia – RM1.19mil and RM1.23mil, 612 PS, 850 Nm",
+  "description": "V167 Mercedes-AMG GLE63S Among the bevy of models launched by Mercedes-Benz Malaysia (MBM) at its ongoing ‘Luxury Like No Other’ event are the Mercedes-AMG GLE63S and GLE63S Coupe. This is the first time the top-dog […]\nThe post 2024 Mercedes-AMG GLE63S and G…",
+  "url": "https://paultan.org/2024/11/05/2024-mercedes-amg-gle63s-and-gle63s-coupe-launched-rm1-19mil-and-rm1-23mil-612-ps-850-nm/",
+  "urlToImage": "https://paultan.org/image/2024/11/2024_Mercedes_AMG_GLE63S_Coupe_Malaysia-1-1200x801.jpg",
+  "publishedAt": "2024-11-05T04:16:34Z",
+  "content": "V167 Mercedes-AMG GLE63S\r\nAmong the bevy of models launched by Mercedes-Benz Malaysia (MBM) at its ongoing ‘Luxury Like No Other’ event are the Mercedes-AMG GLE63S and GLE63S Coupe. This is the first… [+2337 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Paul Tan's Automotive News"
+  },
+  "author": "Jonathan Lee",
+  "title": "2024 Mercedes-Benz GLC350e Coupé, AMG GLC43 Coupé launched in Malaysia – RM426k to RM499k",
+  "description": "Also launched at Mercedes-Benz Malaysia’s (MBM) Luxury Like No Other event, where the company has just launched the Mercedes-Benz GLC350e 4Matic Coupé and Mercedes-AMG GLC43 4Matic Coupé. Incorporating a plug-in hybrid and a mild hybrid […]\nThe post 2024 Merc…",
+  "url": "https://paultan.org/2024/11/05/2024-mercedes-benz-glc350e-coupe-amg-glc43-coupe-launched-in-malaysia-rm426k-to-rm499k/",
+  "urlToImage": "https://paultan.org/image/2024/11/2024_Mercedes_Benz_GLC350e_Coupe_Malaysia-1-1200x801.jpg",
+  "publishedAt": "2024-11-05T02:47:36Z",
+  "content": "Also launched at Mercedes-Benz Malaysia’s (MBM) Luxury Like No Other event are the Mercedes-Benz GLC350e 4Matic Coupé and Mercedes-AMG GLC43 4Matic+ Coupé. Incorporating a plug-in hybrid and a mild h… [+6187 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Paul Tan's Automotive News"
+  },
+  "author": "Jonathan Lee",
+  "title": "2024 Mercedes-AMG G63 facelift in Malaysia – 585 PS, mild hybrid, new MBUX, hydraulic anti-roll, RM1.9mil",
+  "description": "We’re at Mercedes-Benz Malaysia’s (MBM) Luxury Like No Other event, where the facelifted Mercedes-AMG G63 is one of a handful of models launching today. Now codenamed W465 (the pre-facelift model confusingly shared its W463 designation […]\nThe post 2024 Merce…",
+  "url": "https://paultan.org/2024/11/05/2024-mercedes-amg-g63-facelift-in-malaysia-585-ps-mild-hybrid-new-mbux-hydraulic-anti-roll-rm1-9mil/",
+  "urlToImage": "https://paultan.org/image/2024/11/2024_Mercedes_AMG_G63_Malaysia-1-1200x801.jpg",
+  "publishedAt": "2024-11-05T02:40:14Z",
+  "content": "Hello everyone! We’re at Mercedes-Benz Malaysia’s (MBM) Luxury Like No Other event, where the facelifted Mercedes-AMG G63 is one of several models launching today. Now codenamed W465 (the pre-facelif… [+6004 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Www.nzz.ch"
+  },
+  "author": "Eflamm Mordrelle (EM)",
+  "title": "Warren Buffett verkauft Millionen Apple-Aktien und hortet Rekordmengen an Bargeld – ein Warnsignal für die Börsen?",
+  "description": "Buffetts Beteiligungsgesellschaft Berkshire Hathaway kauft kaum mehr Aktien und reduziert die Risiken – für den preisbewussten Starinvestor dürfte der Aktienmarkt in den USA zu heiss gelaufen sein.",
+  "url": "https://www.nzz.ch/finanzen/warren-buffett-verkauft-millionen-apple-aktien-und-hortet-rekordmengen-an-bargeld-ein-warnsignal-fuer-die-boersen-ld.1855837",
+  "urlToImage": "https://img.nzz.ch/2024/11/04/92aafd1c-1c6c-44ac-b523-83bfe689f6b1.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5000,2812,x0,y178&wmark=nzz",
+  "publishedAt": "2024-11-05T04:30:00Z",
+  "content": "An der Generalversammlung im Mai sprach sich Buffett für den weiteren Aufbau des Cash-Bestands von Berkshire Hathaway aus.\r\nDie Investorenlegende Warren Buffett wird nochmals vorsichtiger. Am Samstag… [+4133 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Technews.tw"
+  },
+  "author": "中央社",
+  "title": "輝達擠下蘋果，重返全球市值龍頭寶座",
+  "description": "財經雜誌《富比士》報導，美國人工智慧（AI）晶片大廠輝達（NVIDIA）今天在美股開盤後，市值超越手機大廠蘋果，再次成為全球市值最高的企業。 根據《富比士》（Forbes），在美股開盤後不久，輝達市值升至3.36兆美元，超越蘋果（Apple）的3.33兆美元市值。 輝達即將取代英特爾（Intel）．...",
+  "url": "https://finance.technews.tw/2024/11/05/nvidia-market-value-leading-enterprise/",
+  "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/01/04163052/shutterstock_1480131245.jpg",
+  "publishedAt": "2024-11-05T01:10:34Z",
+  "content": "AINVIDIA\r\nForbes3.36Apple3.33\r\nIntelDow Jones Industrial Average\r\nWarren BuffettBerkshire Hathaway\r\n6Microsoft10\r\nshutterstock"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ixbt.com"
+  },
+  "author": "jin@ixbt.com (Jin)",
+  "title": "iPhone 14 Pro Max взорвался на зарядке, причинив ожоги владелице и ущерб имуществу",
+  "description": "Женщина в Шаньси, Китай, получила серьезные ожоги после взрыва ее смартфона iPhone 14 Pro Max. Инцидент произошел около 6:30 утра, когда женщина спала, а ее телефон заряжался рядом. Во сне ее рука случайно коснулась пламени, что и разбудило ее. Постельное бел…",
+  "url": "https://www.ixbt.com/news/2024/11/05/iphone-14-pro-max.html",
+  "urlToImage": "https://www.ixbt.com/img/n1/news/2024/10/2/d77a054367da45008a68cd32c44dd504.jpg",
+  "publishedAt": "2024-11-05T05:25:00Z",
+  "content": ", , iPhone 14 Pro Max. 6:30 , , .\r\n , . , , iPhone . .\r\n iPhone 14 Pro Max 2022 , . , , , .\r\n Apple . , Apple , .\r\n , Apple - , ."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ixbt.com"
+  },
+  "author": "jin@ixbt.com (Jin)",
+  "title": "Популярность Huawei HarmonyOS быстро растёт: она занимает уже 15% рынка в Китае",
+  "description": "HarmonyOS от Huawei занимает уже заметную долю на китайском рынке смартфонов. Согласно последнему отчету TechInsights, доля рынка HarmonyOS выросла с 13% до 15% в третьем квартале 2024 года, в то время как доля Android упала с 72% до 70%. Стоит добавить, что …",
+  "url": "https://www.ixbt.com/news/2024/11/05/huawei-harmonyos-15.html",
+  "urlToImage": "https://www.ixbt.com/img/n1/news/2024/10/2/HarmonyOS-Next-1024x640_large.jpg",
+  "publishedAt": "2024-11-05T05:20:00Z",
+  "content": "HarmonyOS Huawei . TechInsights, HarmonyOS 13% 15% 2024 , Android 72% 70%. , 2024 Huawei iOS .\r\n, HarmonyOS Next, Android. HarmonyOS, WeChat Harmony, .\r\n , Vivo 19%, Xiaomi Oppo/OnePlus 15,5%. Honor,… [+20 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Nextpit.com"
+  },
+  "author": "Camila Rinaldi",
+  "title": "The Best Phones Under $400 That Are Worth Your Money",
+  "description": "Have around $400 to spend on a new phone? Let us help you home in on the best smartphone you can lay your hands on in this price segment!",
+  "url": "https://www.nextpit.com/best-smartphones-under-400-2024-nov",
+  "urlToImage": "https://fs.npstatic.com/userfiles/7687254/image/Best_Smartphones_400_Dollars.jpg",
+  "publishedAt": "2024-11-05T00:00:01Z",
+  "content": "If you're short on time and just want our top recommendation for a $400 smartphone, glance at the table below. For a more detailed insight into our top picks, continue reading the descriptions below … [+11225 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "FREDZONE"
+  },
+  "author": "Habib ADECHOKAN",
+  "title": "X déploie une modification controversée de sa fonction de blocage",
+  "description": "X, anciennement connu sous le nom Twitter, a commencé à déployer une modification très controversée de sa fonctionnalité de blocage. Désormais, lorsqu’un utilisateur en bloque un autre, celui-ci pourra toujours consulter le profil et les publications de l’uti…",
+  "url": "https://www.fredzone.org/x-deploie-une-modification-controversee-de-sa-fonction-de-blocage/",
+  "urlToImage": "https://www.fredzone.org/wp-content/uploads/2023/10/anciens-dirigeants-de-Twitter-frais-juridiques-a-X.jpg",
+  "publishedAt": "2024-11-05T05:03:04Z",
+  "content": "X Twitter\r\nSans surprise, cette décision a suscité de vives réactions négatives. Plusieurs détracteurs disent qu’elle facilitera la tâche des harceleurs et ex-partenaires abusifs ; en leur permettant… [+2338 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Digitimes"
+  },
+  "author": "Jingyue Hsiao",
+  "title": "Lessons from Vietnam: how Apple could strengthen its supply chain amidst struggling expansion in India",
+  "description": "Amid the ongoing US-China conflict, the industry is focusing on Apple's efforts to shift its supply chain away from China to other regions. However, one of Apple's primary alternative destinations, India, is now facing challenges in its competitiveness compar…",
+  "url": "https://www.digitimes.com/news/a20241101PD210/apple-supply-chain-iphone-foxconn-tariff.html",
+  "urlToImage": "https://img.digitimes.com/newsshow/20241101pd210_files/1_b.jpg",
+  "publishedAt": "2024-11-05T00:46:48Z",
+  "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Soydemac.com"
+  },
+  "author": "Rodrigo Cortina",
+  "title": "Apple presenta los nuevos MacBook Pro M4, M4 Pro y M4 Max: La evolución de la potencia y eficiencia",
+  "description": "En este post trataremos el lanzamiento de la nueva gama de MacBook Pro M4 y sus dos hermanos mayores, que vienen pisando fuerte en el mercado",
+  "url": "https://www.soydemac.com/apple-presenta-los-nuevos-macbook-pro-m4-m4-pro-y-m4-max-la-evolucion-de-la-potencia-y-eficiencia/",
+  "urlToImage": "https://www.soydemac.com/wp-content/uploads/2024/11/m4_pantalla.jpg",
+  "publishedAt": "2024-11-05T00:18:33Z",
+  "content": "Apple ha vuelto a hacer: acaba de revolucionar el mercado de las laptops con su más reciente anuncio, los nuevos MacBook Pro M4, M4 Pro y M4 Max, que pintan bastante bien, la verdad.\r\nDurante el even… [+6864 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Kocpc.com.tw"
+  },
+  "author": "ClaireC",
+  "title": "如何在運行 iOS 18 / iPadOS 18 上設定和使用眼球追踪功能？",
+  "description": "在 WWDC 2024 活動上，Apple 推出了 iOS 18 / iPadOS 18，其中為 iPhone 與 iPad 用戶提供了許多新功能。該功能不僅導入了 Android 用戶多年來已經提供的一些功能，而且還引進一系列新的輔助功能。 其中一個好功能就是眼球追蹤，該功能可以在不需要任何額外硬體的狀況下，利用 Face ID 鏡頭靠眼球來控制 iPhone 與 iPad 。接下來我們將解釋什麼是眼球追蹤、功能性以及如何使用。\nThe post 如何在運行 iOS 18 / iPadOS 18 上設定和使用眼…",
+  "url": "https://www.kocpc.com.tw/archives/573026",
+  "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2024/11/20241105114959_0_c346a3.jpg",
+  "publishedAt": "2024-11-05T03:51:40Z",
+  "content": "WWDC 2024 Apple iOS 18 / iPadOS 18 iPhone iPad Android Face ID iPhone iPad \r\niOS 18 / iPadOS 18 \r\niPhone iOS 18 Face ID iPhone Apple \r\nApple iPadOS iOS \r\n iOS 18 / iPadOS 18 \r\n iOS 18 30 Face ID iOS … [+61 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com.mx"
+  },
+  "author": "Miguel Gutierrez",
+  "title": "Se cae el internet de Totalplay en México y usuarios se quedan sin señal: esto sabemos",
+  "description": "Recién termina el primer lunes de noviembre y Totalplay lo quiere celebrar por todo lo alto pero de la peor manera, ya que actualmente Downdetector en tiempo real ha detectado una falla en el servicio de internet de la compañía. El tope de reportes fue a las …",
+  "url": "https://www.xataka.com.mx/telecomunicaciones/se-cae-internet-totalplay-mexico-usuarios-se-quedan-senal-esto-sabemos",
+  "urlToImage": "https://i.blogs.es/cff7ac/modem-totalplay-caida/840_560.jpeg",
+  "publishedAt": "2024-11-05T03:18:34Z",
+  "content": "Recién termina el primer lunes de noviembre y Totalplay lo quiere celebrar por todo lo alto pero de la peor manera, ya que actualmente Downdetector en tiempo real ha detectado una falla en el servici… [+740 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com.mx"
+  },
+  "author": "Ismael Garcia Delgado",
+  "title": "La serie spin-off de Game of Thrones cancelada por HBO resurge de las cenizas: George R.R. Martin confirma que 10,000 Ships está de nuevo en desarrollo",
+  "description": "Recientemente se dio a conocer la noticia que el mundo de Game of Thrones busca dar el salto a un nuevo formato de entretenimiento: el cine. Aunque el proyecto de Warner Bros aún no cuenta con guionista, director y mucho menos un reparto, el futuro filme mues…",
+  "url": "https://www.xataka.com.mx/cine-y-tv/serie-spin-off-game-of-thrones-cancelada-hbo-resurge-cenizas-george-r-r-martin-confirma-que-10-000-ships-esta-nuevo-desarrollo",
+  "urlToImage": "https://i.blogs.es/9d1e87/0b6f2ccc2a3a32ffb5369c863662519a179eceb6_s2_n2_y2/840_560.jpeg",
+  "publishedAt": "2024-11-05T02:01:54Z",
+  "content": "Recientemente se dio a conocer la noticia que el mundo de Game of Thrones busca dar el salto a un nuevo formato de entretenimiento: el cine. Aunque el proyecto de Warner Bros aún no cuenta con guioni… [+2390 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com.mx"
+  },
+  "author": "Obed Nares",
+  "title": "Meta utilizará IA para descubrir a adolescentes que mienten sobre su edad en Instagram",
+  "description": "Meta utilizará inteligencia artificial en Instagram para identificar a adolescentes que mienten sobre su edad. El medio Bloomberg informó que la plataforma está bajo presión por el impacto en la salud mental de jóvenes y ahora planea implementar un \"clasifica…",
+  "url": "https://www.xataka.com.mx/aplicaciones/meta-utilizara-ia-para-descubrir-a-adolescentes-que-mienten-su-edad-instagram",
+  "urlToImage": "https://i.blogs.es/4ca449/instagram-5409107_1920-1-/840_560.jpeg",
+  "publishedAt": "2024-11-05T03:01:52Z",
+  "content": "Meta utilizará inteligencia artificial en Instagram para identificar a adolescentes que mienten sobre su edad. El medio Bloomberginformó que la plataforma está bajo presión por el impacto en la salud… [+3799 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Xataka.com.mx"
+  },
+  "author": "Eric Ramirez",
+  "title": "Profeco ha hablado: estos son los purificadores de agua que cumplen con las normas de salubridad en México",
+  "description": "La Procuraduría Federal del Consumidor (Profeco) se ha vuelto el terror de muchas marcas con sus pruebas publicadas en los números mensuales de la Revista del Consumidor y sus listados de mejores y peores productos en distintas categorías.\n<!-- BREAK 1 -->\nPa…",
+  "url": "https://www.xataka.com.mx/home/profeco-ha-hablado-estos-purificadores-agua-que-cumplen-normas-salubridad-mexico",
+  "urlToImage": "https://i.blogs.es/b0fc7a/profeco-purificadores-de-agua-mexico-2024/840_560.jpeg",
+  "publishedAt": "2024-11-05T00:45:51Z",
+  "content": "La Procuraduría Federal del Consumidor (Profeco) se ha vuelto el terror de muchas marcas con sus pruebas publicadas en los números mensuales de la Revista del Consumidor y sus listados de mejores y p… [+3488 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Electrek"
+  },
+  "author": "Jo Borrás",
+  "title": "Cybertruck backlog runs out, Model S gets stuck, GM hits a sales milestone",
+  "description": "On today’s episode of Quick Charge, Tesla’s Cybertruck is now available in Canada – and, like in the US, there’s no waiting! Plus, we’ve got an “actually” smart summon Tesla that’s actually stuck, GM reaches a sales milestone, and we get a brand-new title spo…",
+  "url": "http://electrek.co/2024/11/04/cybertruck-backlog-runs-out-model-s-gets-stuck-gm-hits-a-sales-milestone/",
+  "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/11/out-of-buyers.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+  "publishedAt": "2024-11-05T00:57:02Z",
+  "content": "On today’s episode of Quick Charge, Tesla’s Cybertruck is now available in Canada and, like in the US, there’s no waiting! Plus, we’ve got an “actually” smart summon Tesla that’s actually stuck, GM r… [+1148 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "TweakTown"
+  },
+  "author": "Jak Connor",
+  "title": "Intel was kicked off a Dow Jones index after 25 years and replaced by NVIDIA",
+  "description": "Intel has been removed from a Dow Jones index, where it was listed for 25 years, in what seems to be yet another mounting blow to the company. Continue reading at TweakTown >",
+  "url": "https://www.tweaktown.com/news/101494/intel-was-kicked-off-dow-jones-index-after-25-years-and-replaced-by-nvidia/index.html",
+  "urlToImage": "https://static.tweaktown.com/news/1/0/101494_156156165_intel-kicked-off-dow-jones-index-after-25-years-and-plummeting-stock-prices_full.jpg",
+  "publishedAt": "2024-11-05T01:56:03Z",
+  "content": "TL;DR: Intel's stock is down 51% in 2024, and the company has been removed from the Dow Jones Industrial Average after 25 years, with NVIDIA taking its place. NVIDIA's rise is driven by the growing d… [+1656 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applelinkage.com"
+  },
+  "author": "Al",
+  "title": "Apple、現在販売されているスマートグラスを社内で調査",
+  "description": "Bloombergのマーク・ガーマン氏が、Appleは現在販売されているスマートグラスを社内で調査していると伝えています。 Appleが先週から開始した「Atlas」（アトラス）と呼ばれるこの取り組みは、従業員からスマー … 続きを読む Apple、現在販売されているスマートグラスを社内で調査 →",
+  "url": "https://www.applelinkage.com/2024/11/05/apple-surveys-smart-glasses-currently-on-the-market/",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T00:27:45Z",
+  "content": "Apple Watch Ultra 2Apple Watch Series 9iPad mini 6iMac (2023)"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Applelinkage.com"
+  },
+  "author": "Al",
+  "title": "Anker、Bluetoothスピーカー「Select 4 Go」の新色発売",
+  "description": "アンカー・ジャパン株式会社が、Bluetoothスピーカー「Select 4 Go」の新色を発売しています。 Select 4 Goは、5Wのフルレンジスピーカーと、パッシブラジエーターを搭載した手のひらサイズのBlue … 続きを読む Anker、Bluetoothスピーカー「Select 4 Go」の新色発売 →",
+  "url": "https://www.applelinkage.com/2024/11/05/select-4-go-new-colors/",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T02:42:13Z",
+  "content": "Apple Watch Ultra 2Apple Watch Series 9iPad mini 6iMac (2023)"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": null,
+  "title": "Apple News 将使用 Live Activities 在 iPhone 上实时跟踪选举结果",
+  "description": "如果您在 2024 年大选期间感到不够投入，Apple News 提供了一种通过实时活动在您的锁定屏幕和 Apple Watch 上获取最新结果的方法。苹果最初推出实时活动（Live Activities）是为了异想天开地利用灵动岛，向用户展示实时更新的信息。 它在播放音乐、体育比赛比分和主动通话时非常方便，但 Apple News 正在将其用于更令人焦虑的用途。\r\n从本周二晚些时候开始，用户将可以从 Apple News 获得跟踪选举结果的实时活动。 因此，锁屏界面上将会有一个大型互动小部件，启动时会显示最新的…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1452620.htm",
+  "urlToImage": "https://static.cnbetacdn.com/article/2024/1105/0bf781ba4c67a7c.jpg",
+  "publishedAt": "2024-11-05T01:36:17Z",
+  "content": "0cnBeta.COM  2024-11-05 09:20:41\r\n2024 Apple News Apple Watch Live Activities Apple News \r\nApple News \r\niMessage X \r\n iPhone iPad UI Apple Watch Widget \r\nApple News \r\n Apple News \"\" 12 11"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": null,
+  "title": "iOS 18.2 开始支持开发人员测试新的应用意图系统",
+  "description": "苹果 iOS 18.2 及其他版本的最新测试版支持开发人员测试新的应用意图系统，该系统最终将在稍后的版本中使Siri更具上下文感知能力。用户兴奋地更新至 iOS 18.1 的  公开版本，以访问 Apple Intelligence，但他们失望地发现，除了新的发光动画之外，Siri 并没有太大的变化。 WWDC 期间展示的Apple Intelligence 的一些功能仍未可用，但开发人员今天就可以开始支持。\r\n根据苹果发布的开发者文档，开发者可以测试应用意图系统，以便将屏幕上的内容提供给 Siri 和 Appl…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1452618.htm",
+  "urlToImage": "https://static.cnbetacdn.com/article/2024/1105/e5a49e79807c82e.jpg",
+  "publishedAt": "2024-11-05T01:36:03Z",
+  "content": "Siri Apple Intelligence \r\nSiri iMessage \r\n<ul><li> Siri \r\n</li><li> Siri \r\n</li><li> Siri \r\n</li><li> Siri \r\n</li><li> Siri \r\n</li><li> Siri \r\n</li><li> Siri \r\n</li><li> Siri \r\n</li></ul> Siri ChatGP… [+67 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": null,
+  "title": "20亿次浏览 报告称马斯克的美国大选不实言论广为传播",
+  "description": "北京时间11月5日，非营利组织“反数字仇恨中心”发布的报告显示，埃隆·马斯克(Elon Musk)对于美国大选发表的虚假或误导性言论，今年在其社交媒体平台X上的浏览量已达到了20亿次。眼下，美国政府官员和投票权倡导者已对选举相关的错误信息发出警告，同时敦促包括X在内的社交媒体平台采取措施删除有关投票的任何虚假信息。然而，作为X老板，马斯克却在传播虚假信息。\r\n反数字仇恨中心称，在马斯克今年发布的帖子中，至少有87条宣扬了事实核查员认为虚假或具有误导性的有关美国大选言论，这些帖子的浏览量达到了20亿次。自从马斯克在…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1452596.htm",
+  "urlToImage": "https://static.cnbetacdn.com/article/2024/1105/1293ae251e2961d.webp",
+  "publishedAt": "2024-11-05T01:06:19Z",
+  "content": "Apple News Live Activities iPhone \r\n2024-11-05 390"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": null,
+  "title": "消息称苹果探索进军智能眼镜市场 已启动代号Atlas项目",
+  "description": "据知情人士称，苹果公司正在对目前市场上的产品进行内部研究，以探索进军智能眼镜领域，为该公司效仿Meta进入一个日益流行的产品类别做好准备。据不愿透露姓名的知情人士透露，这项代号为Atlas的计划于上周启动，涉及收集苹果员工对智能眼镜的反馈，并计划在不久的将来进行更多的焦点小组讨论。这些研究是由苹果硬件工程部门的产品系统质量团队领导的。\r\n“测试和开发所有人都会喜欢的产品，对我们在苹果的工作非常重要，”该团队在一封发给加州库比蒂诺总部员工的电子邮件中写道。“这就是为什么我们正在寻找参与者加入我们即将到来的针对当前市…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1452590.htm",
+  "urlToImage": "https://static.cnbetacdn.com/article/2023/0316/24e97d60b768eb1.jpg",
+  "publishedAt": "2024-11-05T01:05:34Z",
+  "content": "Apple News Live Activities iPhone \r\n2024-11-05 390"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": null,
+  "title": "OpenAI与监管部门展开初步磋商 推进公司向营利性结构转变",
+  "description": "OpenAI正在与监管机构进行初步磋商，推进将这家估值1570亿美元的人工智能初创公司向营利性结构转变。两位知情人士透露，OpenAI正在与加州总检察长办公室就改变其公司结构的程序进行初步磋商。\r\n在这个过程中，监管机构可能对OpenAI如何评估其利润丰厚的知识产权组合（例如ChatGPT应用程序）进行仔细审查。特拉华州总检察长也一直在与OpenAI就其从非营利向营利性结构的转变进行沟通，这在一封致OpenAI的信中有详细说明。OpenAI成立于2015年，是一家非营利性研究机构，其使命是打造安全且造福于人类的人…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1452588.htm",
+  "urlToImage": "https://static.cnbetacdn.com/article/2024/1004/dbb80f53d44edd1.jpg",
+  "publishedAt": "2024-11-05T01:05:24Z",
+  "content": "Apple News Live Activities iPhone \r\n2024-11-05 390"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": null,
+  "title": "美法官批准马斯克“百万美元抽奖”活动继续进行",
+  "description": "当地时间周一，美国宾夕法尼亚州一名法官允许特斯拉CEO埃隆·马斯克向摇摆州选民每天发放100万美元奖金的计划继续进行，尽管马斯克的政治行动委员会的律师在法庭作证时承认，这些彩票的“赢家”并非随机产生，而是经过刻意挑选的。\r\n在周一开庭的费城检察官起诉马斯克和America PAC一案中，马斯克的律师克里斯·戈伯（Chris Gober）告诉法官，他们在摇摆州组织的“百万美元抽奖”活动中，“赢家”并不是随机选择的，而是被选中作为该组织的“公共发言人”来取得报酬。这位律师表示：“100万美元的获奖者不是随机选择的。我…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1452592.htm",
+  "urlToImage": "https://n.sinaimg.cn/finance/crawl/58/w550h308/20241020/218c-7b4c43baa18c2681e8945f77c9c93e98.png",
+  "publishedAt": "2024-11-05T01:05:51Z",
+  "content": "Apple News Live Activities iPhone \r\n2024-11-05 390"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Cnbeta.com.tw"
+  },
+  "author": null,
+  "title": "一部iPhone 16只赚200块，黄牛离集体谢幕还有多远？",
+  "description": "“从今日起正式退出黄牛行业，做了那么多年真的累了，七年的黄牛生涯到此为止，亏钱的时候心理真的承受不了，祝各位同行生活幸福。”iPhone 16系列发布后不久，一位手机黄牛在同行交流群中发表了自己的告别宣言。一年来，已经陆续有200余人退出这个群。同在群中的吴子杨对此并不意外。\r\n他做了20年手机黄牛，见证过iPhone的黄金年代：单台手机溢价2000元左右，日流水一百万元。但现在，他一天的流水最高也不过10万元。他计划从明年开始不再倒卖iPhone，找一些高溢价产品去做，“反正再也不碰智能手机了”。智能手机市场已…",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1452646.htm",
+  "urlToImage": "https://static.cnbetacdn.com/article/2024/1105/de18d15dd0a0845.webp",
+  "publishedAt": "2024-11-05T02:35:16Z",
+  "content": "20iPhone200010iPhone\r\n10\r\nAI\r\niPhone 15 Pro\r\n9208iPhone 1340\r\niPhone 16 Pro Max 512G\r\n1021500iPhone 16 Pro Max 512G119991149911700201\r\n3\r\n12010\r\niPhone 15iPhone 14ProPro MaxiPhone 15iPhone 16\r\n100080… [+255 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Om.co"
+  },
+  "author": "Om Malik",
+  "title": "Apple Intelligence’s Transcriptions Are Very Good",
+  "description": "I have been using MacWhisper for recording and transcribing my conference calls and interviews for quite a while now. I have also tried FlowVoice.AI for using voice to respond to emails, text messages and do short dictations. Now that I have upgraded to the l…",
+  "url": "https://om.co/2024/11/04/apple-intelligences-transcriptions-are-very-good/",
+  "urlToImage": "https://149366103.v2.pressablecdn.com/wp-content/uploads/2023/03/om-fallback1.png",
+  "publishedAt": "2024-11-05T00:53:28Z",
+  "content": "I have been using MacWhisper for recording and transcribing my conference calls and interviews for quite a while now. I have also tried FlowVoice.AI for using voice to respond to emails, text message… [+1407 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ithome.com"
+  },
+  "author": null,
+  "title": "国行首发 6799 元 → 海外官翻 5156 元：苹果 M2 版 iPad Pro 11 英寸新低",
+  "description": "2022 年 10 月 18 日苹果发布了搭载 M2 芯片的新款 iPad Pro 2022，支持新的悬停 Apple Pencil 功能、Wi-Fi 6E 等。<ul><li>11 英寸 iPad Pro 无线局域网机型起售价为 RMB 6799，无线局域网 ＋ 蜂窝网络机型起售价为 RMB 7999；\r\n</li><li>12.9 英寸 iPad Pro 无线局域网机型起售价为 RMB 9299，无线局域网 ＋ 蜂窝网络机型起售价为 RMB 10499。\r\n</li></ul>京东双十一大促期间，京东国际自营…",
+  "url": "https://www.ithome.com/0/807/931.htm",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T01:17:13Z",
+  "content": "2022 10 18 M2 iPad Pro 2022 Apple Pencil Wi-Fi 6E \r\n<ul><li>11 iPad Pro  RMB 6799  RMB 7999\r\n</li><li>12.9 iPad Pro  RMB 9299  RMB 10499\r\n</li></ul> 128G 5449 5156.55 \r\n Apple iPad Pro 11 2022 M2 128… [+391 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Ithome.com"
+  },
+  "author": null,
+  "title": "苹果发布 tvOS 18.2 首个测试版，新增支持 21:9 投影比例",
+  "description": "IT之家 11 月 5 日消息，科技媒体 MacRumors 昨日（11 月 4 日）发布博文，报道称苹果公司最新发布的 tvOS 18.2 Beta 1 更新中，为投影仪添加了 21:9 比例，进一步提升用户的观看体验。tvOS 18.2 允许用户选择多种宽高比，包括 16:9、21:9、2.37:1、2.39:1、2.40:1、DCI 4K 和 32:9。本次更新还引入自动识别连接的电视或投影仪，检测最佳宽高比，进一步增强了 Apple TV 的兼容性和易用性，IT之家附上演示视频如下： \r\n用户在新版中，还…",
+  "url": "https://www.ithome.com/0/807/926.htm",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T00:48:51Z",
+  "content": "IT 11 5 MacRumors 11 4 tvOS 18.2 Beta 1 21:9 \r\ntvOS 18.2 16:921:92.37:12.39:12.40:1DCI 4K 32:9\r\nApple TV IT\r\ntvOS 18.2 \r\nIT"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Arigato-ipod.com"
+  },
+  "author": "アイアリ",
+  "title": "Apple Musicに対応した「djay」アプリ専用のDJコントローラー「Mixtour Pro」",
+  "description": "株式会社銀座十字屋が、「djay」アプリ用のDJコントローラー「Mixtour Pro」を販売開始しています。 iPhone/iPad/Macと接続して、「djay」アプリでのDJプレイができるコントローラーです。 ドイツReloopブラン",
+  "url": "https://arigato-ipod.com/2024/11/reloop-mixtour-pro.html",
+  "urlToImage": "https://arigato-ipod.com/wp/wp-content/uploads/2024/11/241105mixtourpro.webp",
+  "publishedAt": "2024-11-05T03:01:08Z",
+  "content": "株式会社銀座十字屋が、「djay」アプリ用のDJコントローラー「Mixtour Pro」を販売開始しています。\n\niPhone/iPad/Macと接続して、「djay」アプリでのDJプレイができるコントローラーです。\nドイツReloopブランドの製品で、DJ兼プロデューサーのLaidback Lukeとのコラボレーションで開発されています。\n\n最大4デッキでのミキシングに対応しています。\nApp… [+278 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Prtimes.jp"
+  },
+  "author": null,
+  "title": "ZOZO NEXT、ANREALAGE新コレクション先行受注会向けに次世代のショッピング体験ができるApple Vision Proアプリを提供",
+  "description": "[株式会社ZOZO]\n[画像1: https://prcdn.freetls.fastly.net/release_image/96287/298/96287-298-6352e635e009288f584155e81a4081f3-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...",
+  "url": "https://prtimes.jp/main/html/rd/p/000000298.000096287.html",
+  "urlToImage": "https://prcdn.freetls.fastly.net/release_image/96287/298/96287-298-6352e635e009288f584155e81a4081f3-1600x900.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "publishedAt": "2024-11-05T02:00:00Z",
+  "content": "ZOZO NEXTCEO ZOZO NEXT3D360Apple Vision ProANREALAGE2024111624PARCOANREALAGE\r\n3D111 ANREALAGE4\r\nApple Vision Pro23DAIProject Drip33DXR3DAI\r\n1 \r\n2 ZOZO NEXTApple Vision Pro 6/282024627\r\n3 Project Drip… [+107 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Dealnews.com"
+  },
+  "author": null,
+  "title": "BJ'S Wholesale Club Early Black Friday Sale: Now Live",
+  "description": "Take up to 40% off over 800 items in this early sale event. You'll find deals on furniture, holiday decor, electronics, toys, and more. Shop Now at BJ's Wholesale Club",
+  "url": "https://www.dealnews.com/BJS-Wholesale-Club-Early-Black-Friday-Sale-Now-Live/21693057.html",
+  "urlToImage": "https://c.dlnws.com/image/upload/f_auto,t_maximum,q_auto/content/xozeoes6e9fl6pidnvxt.png",
+  "publishedAt": "2024-11-05T02:22:37Z",
+  "content": "moreSpend your hard-earned money on the one that matters most: you. And when you spend it, spend less, thanks to Woot's event for the independent among us. Pictured are the Apple AirPods 4 with Activ… [+82 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Newmobilelife.com"
+  },
+  "author": "Alex",
+  "title": "Apple 重金懸賞 100 萬美元　邀駭客挑戰破解其 AI 伺服器",
+  "description": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1730768398441\"} -->\nApple 近期宣布，將提供高達 100 萬美元的獎勵，鼓勵全球駭客及資安專家攻破其人工智能伺服器的安全系統。此舉顯示出 Apple 對其 AI 雲端架構的信心，並希望透過實際測試來進一步強化平台的防護能力。\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":500266,\"sizeSlug\":\"large\",…",
+  "url": "https://www.newmobilelife.com/2024/11/05/apple-offer-1-million-for-hacking-its-ai-server/",
+  "urlToImage": "https://static.newmobilelife.com/wp-content/uploads/2019/08/Hacker.jpg",
+  "publishedAt": "2024-11-05T01:10:21Z",
+  "content": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1730768398441\"} -->\nApple 近期宣布，將提供高達 100 萬美元的獎勵，鼓勵全球駭客及資安專家攻破其人工智能伺服器的安全系統。此舉顯示出 Apple 對其 AI 雲端架構的信心，並希望透過實際測試來進一步強化平台的防護能力。\n<!-- /wp:p… [+1277 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Newmobilelife.com"
+  },
+  "author": "Andy",
+  "title": "iOS 18.2 讓 Find My 公開分享失物定位　大幅增加尋回機率",
+  "description": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1730766259701\"} -->\n隨著 iOS 18.2 Beta 2 更新，Apple 將讓尋找遺失物變得更加方便。用戶在新版 Find My 應用中可以分享 AirTag 或其他物品的定位給任何人，不再侷限於朋友或家人。\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":489990,\"sizeSlug\":\"large\",\"linkDest…",
+  "url": "https://www.newmobilelife.com/2024/11/05/find-my-share-item-location-publicly/",
+  "urlToImage": "https://static.newmobilelife.com/wp-content/uploads/2024/11/find-my-item-ios-18.2.webp",
+  "publishedAt": "2024-11-05T00:40:01Z",
+  "content": "<!-- wp:paragraph {\"canvasClassName\":\"cnvs-block-core-paragraph-1730766259701\"} -->\n隨著 iOS 18.2 Beta 2 更新，Apple 將讓尋找遺失物變得更加方便。用戶在新版 Find My 應用中可以分享 AirTag 或其他物品的定位給任何人，不再侷限於朋友或家人。\n<!-- /wp:paragraph … [+1314 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Softantenna.com"
+  },
+  "author": "saadmin",
+  "title": "Apple、iOS 18.2、iPadOS 18.2、macOS 15.2の各beta 2等を公開。天気ウィジェットがメニューバーに対応",
+  "description": "Appleは本日、iOS 18.2、iPadOS 18.2、macOS 15.2の各beta 2、およびtvOS 18.2、visionOS 2.2、watchOS 11.2の各beta 1を開発者に対して公開しました(MacRumors)",
+  "url": "https://softantenna.com/blog/ios-18-2-beta-2/",
+  "urlToImage": "https://softantenna.com/blog/wp-content/uploads/2024/06/Apple-WWDC24-iOS-18-iPhone-15-Pro-3-up-240610_big.large_.jpg",
+  "publishedAt": "2024-11-05T00:47:17Z",
+  "content": "AppleiOS 18.2iPadOS 18.2macOS 15.2beta 2tvOS 18.2visionOS 2.2watchOS 11.2beta 1(MacRumors)\r\nApple Developer Program &gt; &gt; &gt; \r\n:\r\n<table><tr><th></th><th></th><th></th></tr><tr><td>iOS 18.2 bet… [+754 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "ComicBook.com"
+  },
+  "author": "Cameron Bonomolo",
+  "title": "How to Watch Super/Man: The Christopher Reeve Story Online",
+  "description": "After its limited run in theaters, Super/Man: The Christopher Reeve Story is soaring into home theaters. The documentary features never-before-seen home movies and personal archives that recounts the tragic and redemptive story of actor and activist Christoph…",
+  "url": "http://comicbook.com/dc/news/watch-stream-superman-the-christopher-reeve-story-documentary-online/",
+  "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/11/how-to-watch-stream-Superman-The-Christopher-Reeve-Story-online.png?resize=2000,1125",
+  "publishedAt": "2024-11-05T00:01:43Z",
+  "content": "After its limited run in theaters, Super/Man: The Christopher Reeve Story is soaring into home theaters. The documentary features never-before-seen home movies and personal archives that recounts the… [+5124 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Spidersweb.pl"
+  },
+  "author": "Maciej Gajewski",
+  "title": "Król procesorów jest tylko jeden. Jest nim Apple",
+  "description": "Już niedługo do pierwszych klientów trafią przesyłki kurierskie z komputerami Mac z chipsetem M4. Wygląda na to, że jest się na co cieszyć. Według pierwszych wyników z benchmarku, układy M4 Pro i M4 Max oferują znacząco wyższą wydajność, niż się spodziewano -…",
+  "url": "https://spidersweb.pl/2024/11/apple-m4-pro-max-benchmarki-wydajnosc.html",
+  "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2024/10/apple-macbook-air-m1-alternatywy.jpg",
+  "publishedAt": "2024-11-05T05:21:00Z",
+  "content": "Jeli podane wyniki testów Geekbench s prawdziwe, sugeruje to znaczcy skok wydajnoci w porównaniu do poprzednich generacji. Wzrost wyników w tecie na jeden rdze oznaczaby szybsze dziaanie aplikacji op… [+294 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Minatokobe.com"
+  },
+  "author": "酔いどれ",
+  "title": "EUがApple Pencilを規制対象に？Appleの周辺機器ビジネスに新たな波紋",
+  "description": "Apple製品のユーザーなら誰もが一度は手にしたことがあるであろうApple Pencil。このスタイラスペンが、今、欧州連合（EU）の規制当局から注目を集めています。 なぜApple Pencilが規制の対象となるのか、そしてそれが私たちのデジタルライフにどのような影響を与える可能性があるのでしょうか。 EUが目指す「デジタル市場の開放」とは 欧州委員会（EC）は、デジタル市場法（DMA）を通じて、大手テクノロジー企業による市場独占を防ぎ、より開かれた競争環境の創出を目指しています。この動きは、すでにiPhon…",
+  "url": "https://minatokobe.com/wp/apple/post-100609.html",
+  "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/11/DMA-Apple-Pencil_01.jpg",
+  "publishedAt": "2024-11-05T01:33:07Z",
+  "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 15 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Minatokobe.com"
+  },
+  "author": "酔いどれ",
+  "title": "iOS 18.2アップデートで進化するiPhone 16のカメラ機能 – フォーカスと露出のロック機能が追加",
+  "description": "スマートフォンカメラの進化は留まることを知りません。特にiPhoneのカメラ機能は、プロフェッショナルカメラマンからも高い評価を受けています。 iOS 18.2ベータ2で追加された、注目の新機能について... カメラコントロールの進化 - 待望の機能が実現 iPhone 16が2024年9月に発表された際、新しいカメラコントロール機能として、カメラモードの切り替えやズーム操作が紹介されました。しかし、多くのユーザーが待ち望んでいた機能がありました。それが、フォーカスと露出のロック機能です。 この機能は、プロフェッ…",
+  "url": "https://minatokobe.com/wp/ios/ios-18/post-100604.html",
+  "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/11/Camera-Control_01.jpg",
+  "publishedAt": "2024-11-05T00:11:03Z",
+  "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 15 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Minatokobe.com"
+  },
+  "author": "酔いどれ",
+  "title": "Appleが新開発中の90Hzディスプレイ技術、iPad AirやiMacに搭載？噂の真相は？",
+  "description": "この噂の発端は、Myke Hurley氏とJason Snell氏がホストを務めるUpgradeポッドキャストに寄せられた匿名の情報です。 現在、これらの製品はすべて60Hzのディスプレイを搭載していますが、この情報源によれば、まずM3チップを搭載したiPad Airに90Hzパネルが搭載され、その後、24インチiMacとStudio Displayにも展開される可能性があるとのことです。 情報源からのメッセージは次のとおりです。「次世代M3 iPad Airの画面改良に関するニュースがあります。Appleは、約…",
+  "url": "https://minatokobe.com/wp/apple/post-100614.html",
+  "urlToImage": "https://minatokobe.com/wp/wp-content/uploads/2024/11/90Hz-display_01.jpg",
+  "publishedAt": "2024-11-05T02:10:12Z",
+  "content": "1990Mac IIci MacMac Studio M1 MAX + Studio Display,16inch MacBook Pro M1 Pro 2021, iPhone 15 Pro Max, iPhone 13 Pro Max, 12.9inch iPad Pro 2021, iPad Air,  Apple Watch Ultra, 1HomePodApple TV 4KApple… [+43 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Isenacode.com"
+  },
+  "author": "Victor Barbero",
+  "title": "Visión y Análisis de la Semana Especial de Lanzamiento de Macs en Halloween",
+  "description": "Hola iSenaCoders y fans de apple en español. Una vez transcurrida la semana especial de Macs en la semana de Halloween, quería aprovechar y daros […]\nLa entrada Visión y Análisis de la Semana Especial de Lanzamiento de Macs en Halloween es contenido exclusivo…",
+  "url": "https://isenacode.com/vision-y-analisis-de-la-semana-especial-de-lanzamiento-de-macs-en-halloween/",
+  "urlToImage": "https://isenacode.com/wp-content/uploads/2024/11/apple_lanzamientos_macs-d.jpg",
+  "publishedAt": "2024-11-05T00:00:16Z",
+  "content": "Hola iSenaCoders y fans de apple en español. Una vez transcurrida la semana especial de Macs en la semana de Halloween, quería aprovechar y daros mi vísión y análisis de estos lanzamientos.\r\nEl lanza… [+4882 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Daily Beast"
+  },
+  "author": "William Vaillancourt",
+  "title": "GOP Senate Candidate Rails Against ‘Educated’ Women on Eve of Election",
+  "description": "Find The Daily Beast’s coverage of the 2024 election here. Subscribe to The New Abnormal on Apple Podcasts, Spotify, Google Podcasts, Stitcher, Amazon Music,...",
+  "url": "https://www.thedailybeast.com/gop-senate-candidate-royce-white-rails-against-educated-women-on-eve-of-election/",
+  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/omCizvbOJtpycaqTSYgACg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/thedailybeast.com/81968aae679b8463fbef1f597a104ef2",
+  "publishedAt": "2024-11-05T00:13:35Z",
+  "content": "Find The Daily Beasts coverage of the 2024 election here. Subscribe to The New Abnormal on Apple Podcasts, Spotify, Google Podcasts, Stitcher, Amazon Music, or Overcast.\r\nRoyce White, the GOP Senate … [+2489 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "finance.yahoo.com",
+  "title": "Apple to Offer Extra Indonesia Investment to Remove iPhone Ban",
+  "description": "In This Article:\n(Bloomberg) -- Apple Inc. has proposed investing almost $10 million to make additional goods in Indonesia, according to people familiar with the matter, as it seeks to have the country’s ban on sales of its latest iPhone removed.\nMost Read fr…",
+  "url": "https://biztoc.com/x/65571765471350fe",
+  "urlToImage": "https://biztoc.com/cdn/807/og.png",
+  "publishedAt": "2024-11-05T01:31:49Z",
+  "content": "In This Article:(Bloomberg) -- Apple Inc. has proposed investing almost $10 million to make additional goods in Indonesia, according to people familiar with the matter, as it seeks to have the countr… [+153 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "ft.com",
+  "title": "Indonesia steps up trade protectionism with Apple and Google phone bans",
+  "description": "South-east Asia’s largest economy pushes foreign tech groups to invest locally or lose market access",
+  "url": "https://biztoc.com/x/dc21ce29a6c39840",
+  "urlToImage": "https://biztoc.com/cdn/dc21ce29a6c39840_s.webp",
+  "publishedAt": "2024-11-05T05:16:43Z",
+  "content": "South-east Asias largest economy pushes foreign tech groups to invest locally or lose market access\r\nThis story appeared on ft.com, 2024-11-05 05:08:48."
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Biztoc.com"
+  },
+  "author": "fortune.com",
+  "title": "Berkshire Hathaway is dumping Apple stock and building its cash stockpile to record highs because Warren Buffett believes the government will raise capital gains taxes soon",
+  "description": "Berkshire Hathaway’s cash reserves are at an all-time high of $325.2 billion as Warren Buffett quickly exits what has been one of his most profitable trades of the past decade.\nThe Oracle of Omaha and his conglomerate holding company Berkshire started to offl…",
+  "url": "https://biztoc.com/x/c0333835fb0b85dc",
+  "urlToImage": "https://biztoc.com/cdn/c0333835fb0b85dc_s.webp",
+  "publishedAt": "2024-11-05T00:01:36Z",
+  "content": "Berkshire Hathaways cash reserves are at an all-time high of $325.2 billion as Warren Buffett quickly exits what has been one of his most profitable trades of the past decade.The Oracle of Omaha and … [+151 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "GlobeNewswire"
+  },
+  "author": "Future Market Insights Global and Consulting Pvt. Ltd.",
+  "title": "Personalized Skincare Serum Market Projected to Reach USD 2,477.3 Million by 2034, Fueled by AI Innovations and Consumer Demand for Clean Beauty | Future Market Insights",
+  "description": "Japan's personalized skincare serum market is projected to grow at a CAGR of 16.6% until 2034, fueled by AI and 3D assessments for customization. Traditional beauty rituals and anti-aging solutions cater to an aging population, while unique natural ingredient…",
+  "url": "https://www.globenewswire.com/news-release/2024/11/05/2974551/0/en/Personalized-Skincare-Serum-Market-Projected-to-Reach-USD-2-477-3-Million-by-2034-Fueled-by-AI-Innovations-and-Consumer-Demand-for-Clean-Beauty-Future-Market-Insights.html",
+  "urlToImage": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+  "publishedAt": "2024-11-05T00:30:00Z",
+  "content": "NEWARK, Del, Nov. 04, 2024 (GLOBE NEWSWIRE) -- The personalized skincare serum market is set to grow significantly, with an estimated valuation of USD 650.9 million in 2024, and projected to exceed U… [+23569 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "DIE WELT"
+  },
+  "author": "Sebastian Beug",
+  "title": "Wie blicken die Deutschen auf die US-Wahl?",
+  "description": "Wenn die Deutschen in den USA mitentscheiden könnten, würden die meisten für Kamala Harris stimmen. Nur unter den Anhängern einer Partei ist Donald Trump der Favorit. Forsa-Geschäftsführer Thorsten Thierhoff erklärt, wie Deutschland auf die US-Wahl blickt.",
+  "url": "https://www.welt.de/podcasts/article254352682/Forsa-Zahlen-Wie-blicken-die-Deutschen-auf-die-US-Wahl-Podcast.html",
+  "urlToImage": "https://img.welt.de/img/podcasts/mobile254352968/3017937217-ci16x9-w1200/German-American-Steuben-Parade.jpg",
+  "publishedAt": "2024-11-05T03:55:51Z",
+  "content": "Wenn die Deutschen in den USA mitentscheiden könnten, würden die meisten für Kamala Harris stimmen. Nur unter den Anhängern einer Partei ist Donald Trump der Favorit. Forsa-Geschäftsführer Thorsten T… [+1271 chars]"
+  },
+  {
+  "source": {
+  "id": "le-monde",
+  "name": "Le Monde"
+  },
+  "author": "Jean-Emmanuel Ray",
+  "title": "Les subtilités juridiques des transferts de savoir-faire",
+  "description": "Dans sa chronique, le juriste Jean-Emmanuel Ray analyse plusieurs décisions récentes de la Cour de cassation sur les clauses de non-concurrence, parfois abusives.",
+  "url": "https://www.lemonde.fr/emploi/article/2024/11/05/les-subtilites-juridiques-des-transferts-de-savoir-faire_6376687_1698637.html",
+  "urlToImage": "https://img.lemde.fr/2024/03/18/0/0/5760/3840/1440/960/60/0/891f828_1710751076408-pns-3838052.jpg",
+  "publishedAt": "2024-11-05T05:00:13Z",
+  "content": "Droit social. « Il sera libre à toute personne de faire tel négoce ou dexercer telle profession, art ou métier quelle trouve bon. » Ledécret dAllarde du 17 mars 1791 voulait lutter contre les puissan… [+2365 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNBC"
+  },
+  "author": null,
+  "title": "Don't ignore the European market, Jim Cramer says",
+  "description": "CNBC's Jim Cramer on Monday told investors not to write off the power of European markets, pointing out economic growth across the region.",
+  "url": "https://www.cnbc.com/2024/11/04/dont-ignore-the-european-market-jim-cramer-says.html",
+  "urlToImage": "https://image.cnbcfm.com/api/v1/image/107187447-16752759422023-02-01t181608z_1646662569_rc2c2z9kd7an_rtrmadp_0_global-europe.jpeg?v=1692968401&w=1920&h=1080",
+  "publishedAt": "2024-11-05T00:16:24Z",
+  "content": "CNBC's Jim Cramer on Monday told investors not to write off the power of European markets, pointing out economic growth across the region.\r\n\"This continent of 750 million people, twice our market siz… [+2013 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "L'Express"
+  },
+  "author": "L’Express",
+  "title": "Guerre en Ukraine : en coulisses, les négociations s’intensifient",
+  "description": "Après presque trois ans de guerre, Russes et Occidentaux veulent accélérer pour trouver une solution diplomatique au conflit.",
+  "url": "https://www.lexpress.fr/podcasts/laloupe/guerre-en-ukraine-en-coulisses-les-negociations-sintensifient-EBQYM6M5IZDWVIZKEHVJZJE34U/",
+  "urlToImage": "https://www.lexpress.fr/resizer/v2/ZBWECTMIERATDGLSNRKWAKDTFU.jpg?auth=45d6feee60424f5df10188673ff6eb6e375597cf4157a51067d9762e767c19fa&width=1200&height=630&quality=85&smart=true",
+  "publishedAt": "2024-11-05T05:00:00Z",
+  "content": "Toute la semaine, on fait le point sur la suite possible de la guerre en Ukraine. Dans ce deuxième épisode, on retrouve Charles Haquet et Charlotte Lalanne, journalistes au service Monde de LExpress,… [+2267 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Motley Fool Australia"
+  },
+  "author": "Bronwyn Allen",
+  "title": "3 megatrends accessible via the Vanguard MSCI Index International Shares ETF (VGS)",
+  "description": "The ASX VGS makes it easy to invest in several global investment megatrends via a single trade. \nThe post 3 megatrends accessible via the Vanguard MSCI Index International Shares ETF (VGS) appeared first on The Motley Fool Australia.",
+  "url": "https://www.fool.com.au/2024/11/05/3-megatrends-accessible-via-the-vanguard-msci-index-international-shares-etf-vgs/",
+  "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/09/Lots-of-flavours-in-this-big-ice-cream-16_9-1200x675.jpg",
+  "publishedAt": "2024-11-05T04:58:00Z",
+  "content": "The Vanguard MSCI Index International Shares ETF (ASX: VGS) provides handy exposure to several global investment megatrends in a single trade. \r\nThree of those megatrends are represented in the excha… [+3352 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Motley Fool Australia"
+  },
+  "author": "Zach Bristow",
+  "title": "Want cash like Warren? How to stack paper without ditching ASX shares",
+  "description": "Life is about trade offs. \nThe post Want cash like Warren? How to stack paper without ditching ASX shares appeared first on The Motley Fool Australia.",
+  "url": "https://www.fool.com.au/2024/11/05/want-cash-like-warren-how-to-stack-paper-without-ditching-asx-shares/",
+  "urlToImage": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-147022635-1-1200x675.jpg",
+  "publishedAt": "2024-11-05T00:06:33Z",
+  "content": "Those who own ASX shares face an existential trilemma: how much cash to hold, how to finance new investments, and when to sell existing ones. \r\nCash has to come from somewhere to purchase new assets.… [+5207 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Theregister.com"
+  },
+  "author": "Brandon Vigliarolo",
+  "title": "Apple 'broke law' by pushing out labor-organizing dev",
+  "description": "Violation of labor rights? By the iTitan? Surely not! The hot water in which the National Labor Relations Board has been boiling Apple is getting deeper, as the US workers' rights body has issued yet another unfair labor practice complaint alleging the constr…",
+  "url": "https://www.theregister.com/2024/11/05/apple_labor_law_nlrb/",
+  "urlToImage": "https://regmedia.co.uk/2024/01/24/shutterstock_2416628559.jpg",
+  "publishedAt": "2024-11-05T03:22:05Z",
+  "content": "The hot water in which the National Labor Relations Board has been boiling Apple is getting deeper, as the US workers' rights body has issued yet another unfair labor practice complaint alleging the … [+4794 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Patently Apple"
+  },
+  "author": "Jack Purcher",
+  "title": "While Apple has been filing patents related to Smartglasses for over 7 years, the company now appears to be moving to the next phase",
+  "description": "Apple Inc. is reportedly exploring a push into the next phase of their smart glasses project with an internal study of products currently on the market, setting the stage for the company to follow Meta Platforms Inc. into an increasingly popular category.",
+  "url": "https://www.patentlyapple.com/2024/11/while-apple-has-been-filing-patents-related-to-smartglasses-for-over-7-years-the-company-now-appears-to-be-moving-to-the-nex.html",
+  "urlToImage": "https://patentlyapple.typepad.com/.a/6a0120a5580826970c02c8d3c28e80200c-600wi",
+  "publishedAt": "2024-11-05T00:38:44Z",
+  "content": "Apple Inc. is exploring a push into smart glasses with an internal study of products currently on the market, setting the stage for the company to follow Meta Platforms Inc. into an increasingly popu… [+1536 chars]"
+  },
+  {
+  "source": {
+  "id": "the-times-of-india",
+  "name": "The Times of India"
+  },
+  "author": "Jessica Rajan and Pranav Mukul",
+  "title": "Alarm bells at wearables companies as slump extends to this fiscal",
+  "description": "India’s wearables market has been on a downturn for over a year, affecting major brands like Boat and Boult. Boat reported a 5% revenue drop in FY24 but halved its losses, while Boult’s profits shrank despite a 40% revenue increase due to expansion efforts. S…",
+  "url": "https://economictimes.indiatimes.com/tech/technology/alarm-bells-at-wearables-companies-as-slump-extends-to-this-fiscal/articleshow/114954217.cms",
+  "urlToImage": "https://img.etimg.com/thumb/msid-114954711,width-1200,height-630,imgsize-2014325,overlay-ettech/articleshow.jpg",
+  "publishedAt": "2024-11-05T00:30:00Z",
+  "content": "The festive season failed to arrest a downturn in Indias wearables market, particularly mass-segment smartwatches, over the last 12-15 months even as its impact has become visible in the financials o… [+3979 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Bangkok Post"
+  },
+  "author": "Bloomberg",
+  "title": "Southeast Asia’s digital economy slows as consumers cut spending",
+  "description": "<p>Southeast Asia&rsquo;s internet economy will log its slowest growth on record this year, a group of researchers said, underscoring weakness in consumer demand and a push to show profits instead of revenue gains.</p>",
+  "url": "https://www.bangkokpost.com/business/general/2896306/southeast-asias-digital-economy-slows-as-consumers-cut-spending",
+  "urlToImage": "https://static.bangkokpost.com/media/content/20241105/c1_2896306_700.jpg",
+  "publishedAt": "2024-11-05T04:23:00Z",
+  "content": "Southeast Asia’s internet economy will log its slowest growth on record this year, a group of researchers said, underscoring weakness in consumer demand and a push to show profits instead of revenue … [+2687 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T04:39:53Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T04:43:32Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "[Removed]"
+  },
+  "author": null,
+  "title": "[Removed]",
+  "description": "[Removed]",
+  "url": "https://removed.com",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T04:33:22Z",
+  "content": "[Removed]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "CNET"
+  },
+  "author": null,
+  "title": "株式会社ZOZOZOZO NEXT、ANREALAGE新コレクション先行受注会向けに次世代のショッピング体験ができるApple Vision Proアプリを提供",
+  "description": "～ 空間コンピューティング技術により、没入感のあるブランド体験を実現 ～[画像1: https://prcdn.freetls.fastly.net/release_image/96287/298/96287-298-6352e635e009288f584155e81a4081f3-1600x900.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff ]株式会社ZOZO ...",
+  "url": "https://japan.cnet.com/release/31053457/",
+  "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+  "publishedAt": "2024-11-05T02:00:00Z",
+  "content": "[1: ]\r\nZOZO NEXTCEO ZOZO NEXT3D360Apple Vision ProANREALAGE2024111624PARCOANREALAGE\r\n3D111 ANREALAGE4\r\nApple Vision Pro23DAIProject Drip33DXR3DAI\r\n1 2 \"&gt;ZOZO NEXTApple Vision Pro 6/2820246273 \"&gt… [+260 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "DIE WELT"
+  },
+  "author": "Philipp Vetter, Holger Zschäpitz",
+  "title": "Überraschung bei Palantir und die emotionalste US-Wahlkampf-Aktie",
+  "description": "In der heutigen Folge von „Alles auf Aktien“ sprechen die Finanzjournalisten Philipp Vetter und Holger Zschäpitz über den lukrativen Apple-Deal von Globalstar, Übernahme-Euphorie bei Salzgitter und Gewinne bei grünen Aktien.",
+  "url": "https://www.welt.de/podcasts/alles-auf-aktien/article254354638/Boersenpodcast-Donald-Trump-gegen-Kamala-Harris-Das-bedeuten-die-US-Szenarien-fuer-Anleger.html",
+  "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile252746192/0907933717-ci16x9-w1200/WELT-Podcast-AAA-SB-Zschaepitz-Vetter.jpg",
+  "publishedAt": "2024-11-05T03:56:48Z",
+  "content": "In der heutigen Folge von Alles auf Aktien sprechen die Finanzjournalisten Philipp Vetter und Holger Zschäpitz über den lukrativen Apple-Deal von Globalstar, Übernahme-Euphorie bei Salzgitter und Gew… [+657 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Freerepublic.com"
+  },
+  "author": "Serving The Best Troops And Veterans In The World!!",
+  "title": "FReeper Canteen ~ National Donut Day! ~ 05 NOV 2024",
+  "description": "~The FReeper Canteen Presents~National Donut Day!National Donut Day (also known as National Doughnut Day) on November 5th is one of two observed by donut lovers across the nation. The first Friday in June is the other day donuts steal the bakery case spotligh…",
+  "url": "https://freerepublic.com/focus/f-news/4275761/posts",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T02:00:20Z",
+  "content": "~The FReeper Canteen Presents~\r\nNational Donut Day!\r\nNational Donut Day (also known as National Doughnut Day) on November 5th is one of two observed by donut lovers across the nation. The first Frida… [+3015 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Freerepublic.com"
+  },
+  "author": "Eatthis.com",
+  "title": "The 13 Best Frozen Foods at Sam's Club Right Now",
+  "description": "Sam's Club offers members an embarrassment of riches regarding food options. From prepared meals to baked goods like fall pies, members can complete their weekly grocery runs at their local warehouse, stocking up their refrigerators and pantries with many ite…",
+  "url": "https://freerepublic.com/focus/f-chat/4275782/posts",
+  "urlToImage": null,
+  "publishedAt": "2024-11-05T03:30:34Z",
+  "content": "Skip to comments.\r\nThe 13 Best Frozen Foods at Sam's Club Right NowEatthis.com ^\r\n | 11/03/2024\r\n | Carly Neil\r\nPosted on 11/04/2024 7:30:34 PM PST by ChicagoConservative27\r\nSam's Club offers members… [+6075 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Thairath.co.th"
+  },
+  "author": "Thairath",
+  "title": "ว้าวจัด! แคมเปญใหม่พี่โต Toyota No.1 HEV SUV 1 พ.ย. 67 - 31 ธ.ค. 67",
+  "description": "TOYOTA สร้างยอดขายสูงสุด กลุ่มไฮบริดเอสยูวี กับแคมเปญการสื่อสารใหม่ “TOYOTA No.1 HEV SUV ใครๆ ก็ครอส” ตอกย้ำความเป็นผู้นำยนตรกรรมไฮบริด จองและออกรถยนต์ Toyota ตั้งแต่วันที่ 1 พ.ย. 67 - 31 ธ.ค. 67 รับ  2 ต่อ!!  ส่วนลดสูงสุด 50,000 บาท หรือส่วนลดดอกเบี้ยสูงสุด …",
+  "url": "https://www.thairath.co.th/news/auto/news/2823740",
+  "urlToImage": "https://static.thairath.co.th/media/B6FtNKtgSqRqbnNsbQWBcLlqq4pxigDHAbWtrdc3nS48CiXoybnW7xeDjaaG6nW9Z7oiP.jpg",
+  "publishedAt": "2024-11-05T01:00:00Z",
+  "content": "Toyota Motor Thailand 38,700 * Toyota HEV SUV 2 Corolla Cross Yaris Cross xEV 24% “Toyota No.1 HEV SUV ”\r\n(* – .. 2567)\r\n Toyota Toyota 8,000 Toyota 15 48 450 “Toyota No.1 HEV SUV ”\r\nToyota (xEV) Toy… [+2837 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Idownloadblog.com"
+  },
+  "author": "Anthony Bouchard",
+  "title": "Apple unsigns iOS 18.0.1 following newer iOS 18.1 release, ending firmware downgrades",
+  "description": "Apple is no longer signing iOS & iPadOS 18.0.1 following the release of iOS & iPadOS 18.1, which stops downgrades.",
+  "url": "https://www.idownloadblog.com/2024/11/04/apple-unsigns-ios-18-0-1-following-newer-ios-18-1-release-ending-firmware-downgrades/",
+  "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2024/08/iOS-18-Firmware-Downgrade.jpg",
+  "publishedAt": "2024-11-05T01:12:06Z",
+  "content": "Apple on Monday made the predictable move of unsigning the iOS &amp; iPadOS 18.0.1 firmware, just one week after launching the iOS &amp; iPadOS 18.1 software update that introduced some of the very f… [+2755 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Aajtak.in"
+  },
+  "author": "aajtak.in",
+  "title": "Flipkart पर बंपर ऑफर, फोन पर मिल रहा 55% तक का डिस्काउंट",
+  "description": "Flipkart Smartphone Festive Days Sale जारी है, जो 7 नवंबर तक चलेगी. इस सेल के दौरान कई अच्छे ऑफर्स, डिस्काउंट और डील्स देखने को मिलेंगी. जहां पहली बार Apple iPhone 15 पर 18 महीने के लिए No Cost EMI का ऑप्शन मिल रहा है. इसके अलावा Samsung और Google pixel हैंडस…",
+  "url": "https://www.aajtak.in/technology/tech-news/story/flipkart-smartphone-festive-days-sale-and-get-upto-55-percent-discount-ttec-dskc-2088435-2024-11-05",
+  "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202411/672990b4615d4-flipkart-big-shopping-utsav-sale-starts-tv-and-washing-machines-available-for-less-than-7-thousand-r-052742496-16x9.jpg",
+  "publishedAt": "2024-11-05T03:59:43Z",
+  "content": "Flipkart Smartphone Festive Days Sale , 7 . . Flipkart Google Pixel 9, Nothing Phone 2a iPhone 15 .\r\nSamsung Galaxy S23 5G 55 . . Samsung Galaxy S23 5G Flipkart 39,999 , 75 . \r\nGalaxy S23 5G  \r\nSamsu… [+498 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Fark.com"
+  },
+  "author": null,
+  "title": "Apple will let you temporarily share your AirTag's location so the airline can find out which one of their employees stole your bag [Awkward]",
+  "description": "Apple will let you temporarily share your AirTag's location so the airline can find out which one of their employees stole your bag",
+  "url": "https://www.fark.com/comments/13452154/Apple-will-let-you-temporarily-share-your-AirTags-location-so-airline-can-find-out-which-one-of-their-employees-stole-your-bag",
+  "urlToImage": "https://usrimg-full.fark.net/R/Rw/fark_Rwz8qQuRpI_e2wOuWXuolakcQEg.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1731301200&Signature=aFAr6WowD5bcqJK472DYUOJ8Ve0%3D",
+  "publishedAt": "2024-11-05T01:35:07Z",
+  "content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
+  },
+  {
+  "source": {
+  "id": "usa-today",
+  "name": "USA Today"
+  },
+  "author": "Danny Segura",
+  "title": "Video: Should interim welterweight title be implemented with Belal Muhammad out of UFC 310?",
+  "description": "Should UFC implement an interim title following Belal Muhammad's UFC 310 withdrawal? We discuss on \"Spinning Back Clique.\"",
+  "url": "https://mmajunkie.usatoday.com/2024/11/ufc-310-belal-muhammad-injured-reaction-video",
+  "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2024/11/SBC-Belal-site.jpg?w=1024&h=576&crop=1",
+  "publishedAt": "2024-11-05T01:00:55Z",
+  "content": "Bad news: Welterweight champion Belal Muhammad is out of UFC 310, and that leaves the division in a bit of a quandary. \r\nMuhammad suffered a nasty toe infection that left him no choice but to pull ou… [+1136 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Yahoo Entertainment"
+  },
+  "author": "Andy Yang",
+  "title": "Amazon 將用 AI 來為 Prime Video 產生個人化的「前情提要」",
+  "description": "你有沒有過這樣的經歷：當一部劇看到一半時因為某些原因停下來，之後卻因為不記得前面的劇情，讓影劇變得很難接著看下去？如果是的話，Amazon 可能有解決的答案了。該公司剛剛為 Prime Video 推出了一個名為「X-Ray Recaps」的新工具，利用 AI 生成個人化的前情提要。\r\nX-Ray Recaps 採用生成式 AI 技術，來創建「簡短、易於理解的摘要」，摘要範圍可以彈性地涵蓋整季電視劇、單集，甚至是部分劇集。所有這些都是個人化的，因此回顧能精確到「你停止觀看的那一分鐘」。摘要內容則是包括「關鍵懸念、…",
+  "url": "https://hk.news.yahoo.com/amazon-will-now-use-ai-to-recap-what-youre-watching-003019697.html",
+  "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-11/86b45c40-9b0a-11ef-bdff-ebd01cdb831d",
+  "publishedAt": "2024-11-05T00:30:19Z",
+  "content": "Amazon Prime Video X-Ray Recaps AI \r\nX-Ray Recaps AI Amazon AI \r\nPrime Video Adam Gray Amazon AI AWS Amazon Bedrock \r\nX-Ray Recaps beta Fire TV Amazon MGM Studios \r\n Yahoo Tech \r\n Tech Facebookhttps:… [+260 chars]"
+  }
+  ]
+  }
